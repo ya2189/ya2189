@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Yuri, a CS graduate from Georgia Tech with a passion for creating innovative and impactful software solutions and working with cross-collaborative teams. 
+I'm Yuri, a CS graduate from Georgia Tech with a passion for creating innovative and impactful software solutions and working with cross-collaborative teams. 
 - 🔭 I’m currently working on: Developing LLM RAG system using Langchain & full-stack web applications focused on Women's equality and empowerment 
 - 🌱 I’m currently learning: Back-end development (REST APIs, Django, PostgreSQL ... and more!) 
 - 👯 I’m looking to collaborate on: Creative web applications that have a strong purpose and mission
